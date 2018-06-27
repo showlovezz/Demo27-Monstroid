@@ -1,0 +1,94 @@
+/*00.nav*/
+nav.bg-color{
+	height: 140px;
+	background-color: transparent;
+}
+
+nav.navbar-color .collapse ul li .nav-link{
+	color: #fff;
+	font-size: 14px;
+	margin-left: 20px;
+}
+
+nav.navbar-color .collapse ul li .nav-link:hover{
+	color: #2ed3ae;
+}
+
+nav.navbar-color .collapse ul{
+	margin-left: 280.5px;
+}
+
+nav.navbar-color .collapse ul li .first_color{
+	color: #2ed3ae;
+}
+
+nav.navbar-color .collapse ul li .nav-btn{
+	border: 1px solid #fff;
+	background-color: #000;
+	border-radius: 2px;
+	padding: 20px 40px;
+	font-weight: 500;
+	transition: 0.5s;
+}
+
+nav.navbar-color .collapse ul li .nav-btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+/*01.jumbotron*/
+.jumbotron{
+	height: 600px;
+	background-image: url(https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?cs=srgb&dl=astronomy-beautiful-constellations-813269.jpg&fm=jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position: center;
+}
+
+.jumbotron .container{
+	margin-top: 120px;
+}
+
+.jumbotron .container .row .col-5 h4{
+	color: #2ed3ae;
+}
+
+.jumbotron .container .row .col-5 h1{
+	font-weight: bold;
+	color: #fff;
+}
+
+.jumbotron .container .row .col-5 p{
+	color: #fff;
+}
+
+.jumbotron .container .row .col-5 a{
+	text-decoration: none;
+}
+
+.jumbotron .container .row .col-5 a .btn1{
+	padding: 15px 35px;
+	width: 200px;
+	color: #fff;
+	border: 1px solid #fff;
+	text-align: center;
+	border-radius: 2px;
+	transition: 0.5s;
+}
+
+.jumbotron .container .row .col-5 a .btn1:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.jumbotron .container .row .col-7 img{
+	height: 100%;
+	width: 100%;
+}
+
+
+
+
+
+
