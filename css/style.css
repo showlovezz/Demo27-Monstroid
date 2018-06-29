@@ -136,6 +136,24 @@ nav.navbar-color .collapse ul li .nav-btn:hover{
 	font-size: 50px;
 }
 
+/*04.Niche Templates*/
+#section_niche_templates .container-fluid .row .col-3 img{
+	width: 100%;
+	height: 100%;
+}
+
+#section_niche_templates{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+#section_niche_templates .container-fluid .row .col-12{
+	margin-bottom: 50px;
+}
+
+
+
+
 
 
 
